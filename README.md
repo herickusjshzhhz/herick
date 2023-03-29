@@ -1,2 +1,1 @@
-# herick
-Herickmod
+["herick.sxs._7"]
